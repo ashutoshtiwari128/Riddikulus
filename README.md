@@ -16,9 +16,9 @@
 - *README.md*
 ------------------------------------------------------------------
 ### SYSTEMS REQUIREMENT ###
-Python 3 should be installed.
+Python 3 must be installed.
 
-The following libraries needs to be installed on the system to run the codes
+The following libraries must be installed on the system to run the codes
 
 - numpy
 - pandas
@@ -28,8 +28,6 @@ The following libraries needs to be installed on the system to run the codes
 ------------------------------------------------------------------
 
 ### COMPILATION AND EXECUTING INSTRUCTIONS ###
-
-### CODES SUBMITTED FOR PRIVATE LEADERBOARD ###
 
 #### CODE-1 ####
 STACKING WITH Random Forest and XGBCLASSIFIER
