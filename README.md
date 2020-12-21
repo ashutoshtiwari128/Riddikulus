@@ -4,8 +4,8 @@
 
 ### TEAM MEMBERS ###
 ------------------------------------------------------------------
-- Ashutosh Singh-CS18BTECH11049 (REPRESENTATIVE)
-- Manya Goel-CS18BTECH11050
+- Ashutosh Tiwari - CS18BTECH11049 (REPRESENTATIVE)
+- Manya Goel - CS18BTECH11050
 ------------------------------------------------------------------
 ### LIST OF FILES SUBMITTED ###
 
