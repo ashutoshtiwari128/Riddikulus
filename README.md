@@ -17,6 +17,12 @@
   - *FILENAME*
 - *README.md*
 ------------------------------------------------------------------
+### SYSTEMS REQUIREMENT ###
+The following libraries needs to be installed on the system to run the codes
+
+```
+```
+------------------------------------------------------------------
 
 ### COMPILATION AND EXECUTING INSTRUCTIONS ###
 
