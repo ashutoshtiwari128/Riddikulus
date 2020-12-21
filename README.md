@@ -25,6 +25,11 @@ The following libraries must be installed on the system to run the codes
 - xgboost
 - scikit-learn
 
+The following files must be present in the same directory as of the codes to run the codes
+
+- iith_foml_2020_train.csv
+- test_input.csv
+
 ------------------------------------------------------------------
 
 ### COMPILATION AND EXECUTING INSTRUCTIONS ###
