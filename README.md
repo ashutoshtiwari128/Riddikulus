@@ -30,7 +30,7 @@ The following libraries must be installed on the system to run the codes
 ### COMPILATION AND EXECUTING INSTRUCTIONS ###
 
 #### CODE-1 ####
-STACKING WITH Random Forest and XGBCLASSIFIER
+STACKING WITH RANDOM FOREST and XGBCLASSIFIER
 ##### ACCURACY #####
 PUBLIC LEADERBOARD: 0.95305 <br>
 PRIVATE LEADERBOARD: 0.92018
@@ -48,7 +48,7 @@ PUBLIC LEADERBOARD: 0.94366 <br>
 PRIVATE LEADERBOARD: 0.92488
 
 ```
-python3 CS18BTECH11049_1.py
+python3 CS18BTECH11049_2.py
 ```
 
 ------------------------------------------------------------------
