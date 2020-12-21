@@ -10,18 +10,21 @@
 ### LIST OF FILES SUBMITTED ###
 
 - *CODE-1*
-  - *FILENAME*
+  - *CS18BTECH11049_1.py*
 - *CODE-2*
-  - *FILENAME*
-- *CODE-3*
-  - *FILENAME*
+  - *CS18BTECH11049_2.py*
 - *README.md*
 ------------------------------------------------------------------
 ### SYSTEMS REQUIREMENT ###
+Python 3 should be installed.
+
 The following libraries needs to be installed on the system to run the codes
 
-```
-```
+- numpy
+- pandas
+- xgboost
+- scikit-learn
+
 ------------------------------------------------------------------
 
 ### COMPILATION AND EXECUTING INSTRUCTIONS ###
@@ -29,14 +32,13 @@ The following libraries needs to be installed on the system to run the codes
 ### CODES SUBMITTED FOR PRIVATE LEADERBOARD ###
 
 #### CODE-1 ####
-STACKING WITH XGBCLASSIFIER
+STACKING WITH Random Forest and XGBCLASSIFIER
 ##### ACCURACY #####
 PUBLIC LEADERBOARD: 0.95305 <br>
 PRIVATE LEADERBOARD: 0.92018
 
 ```
-gcc TCPEchoServer.c -o server
-./server <port>
+python3 CS18BTECH11049_1.py
 ```
 
 ------------------------------------------------------------------
@@ -48,26 +50,7 @@ PUBLIC LEADERBOARD: 0.94366 <br>
 PRIVATE LEADERBOARD: 0.92488
 
 ```
-gcc TCPEchoServer.c -o server
-./server <port>
+python3 CS18BTECH11049_1.py
 ```
 
 ------------------------------------------------------------------
-### CODES NOT SUBMITTED FOR PRIVATE LEADERBOARD ###
-
-#### CODE-3 ####
-XGBCLASSIFIER with ONE HOT ENCODING AND FEATURE SELECTION
-##### ACCURACY #####
-PUBLIC LEADERBOARD: 0.92957 <br>
-PRIVATE LEADERBOARD: 0.91549
-
-```
-gcc TCPEchoServer.c -o server
-./server <port>
-```
-
-------------------------------------------------------------------
-
-
-
- 
